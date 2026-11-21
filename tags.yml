@@ -1,0 +1,60 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: on-call
+  name: "On-Call"
+- id: incident-response
+  name: "Incident Response"
+- id: freemium
+  name: "Freemium"
+- id: slack
+  name: "Slack"
+- id: postmortems
+  name: "Postmortems"
+- id: automation
+  name: "Automation"
+- id: slo
+  name: "SLO"
+- id: runbooks
+  name: "Runbooks"
+- id: atlassian
+  name: "Atlassian"
+- id: alerting
+  name: "Alerting"
+- id: sre
+  name: "SRE"
+- id: status-pages
+  name: "Status Pages"
+- id: monitoring
+  name: "Monitoring"
+- id: uptime
+  name: "Uptime"
+- id: devops
+  name: "DevOps"
+- id: customer-communication
+  name: "Customer Communication"
+- id: cloud
+  name: "Cloud"
+- id: observability
+  name: "Observability"
+- id: itsm
+  name: "ITSM"
+- id: incident-management
+  name: "Incident Management"
+- id: scheduling
+  name: "Scheduling"
+- id: aiops
+  name: "AIOps"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: communication
+  name: "Communication"
+- id: mit
+  name: "MIT"

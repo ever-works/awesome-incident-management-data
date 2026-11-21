@@ -1,0 +1,13 @@
+name: "Cachet"
+description: "Cachet is an open-source status page system for communicating system downtime and incidents to end users. It supports custom domains, metrics, and subscriptions, and can be self-hosted. Cachet is released under the MIT License."
+source_url: "https://cachethq.io/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "status-pages"
+  - "communication"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/cachethq.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://cachethq.io/>\n- Repository: <https://github.com/cachethq/Cachet>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:25"

@@ -1,0 +1,13 @@
+name: "Zabbix"
+description: "Zabbix is an open-source enterprise monitoring and alerting solution for networks, servers, and applications. It collects metrics, triggers alerts, and supports incident escalation through email, SMS, and webhook. Zabbix is released under the GNU General Public License."
+source_url: "https://www.zabbix.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "monitoring"
+  - "alerting"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zabbix.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.zabbix.com/>\n- Repository: <https://github.com/zabbix/zabbix>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 01:25"

@@ -1,0 +1,13 @@
+name: "ilert"
+description: "ilert is an alerting and on-call management platform that connects monitoring tools to response teams via phone, SMS, push, and email. It offers incident escalation, schedules, and status pages for DevOps and IT operations. ilert provides a free plan for small teams and paid plans for advanced features."
+source_url: "https://ilert.com/"
+category: "On-Call & Alerting"
+tags:
+  - "freemium"
+  - "api"
+  - "on-call"
+  - "alerting"
+  - "status-pages"
+icon_url: "https://icons.duckduckgo.com/ip3/ilert.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://ilert.com/>\n"
+updated_at: "2026-11-21 01:25"

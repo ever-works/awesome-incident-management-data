@@ -1,0 +1,13 @@
+name: "Better Stack"
+description: "Better Stack is a developer-first observability and incident management platform combining uptime monitoring, on-call scheduling, and status pages. It routes alerts to teams and automates incident escalation through multiple channels. A generous free tier is available, with paid plans for higher usage."
+source_url: "https://betterstack.com/"
+category: "On-Call & Alerting"
+tags:
+  - "freemium"
+  - "api"
+  - "monitoring"
+  - "status-pages"
+  - "uptime"
+icon_url: "https://icons.duckduckgo.com/ip3/betterstack.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://betterstack.com/>\n"
+updated_at: "2026-11-21 01:25"

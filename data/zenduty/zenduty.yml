@@ -1,0 +1,13 @@
+name: "Zenduty"
+description: "Zenduty is an incident response and on-call management platform for DevOps and SRE teams. It centralizes alerts, automates escalation policies, and generates postmortem reports after incidents. Zenduty includes a free tier for small teams and paid plans for larger organizations."
+source_url: "https://www.zenduty.com/"
+category: "Incident Response Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "devops"
+  - "sre"
+  - "postmortems"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zenduty.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.zenduty.com/>\n"
+updated_at: "2026-11-21 01:25"

@@ -1,0 +1,13 @@
+name: "Spike.sh"
+description: "Spike.sh provides on-call scheduling, incident management, and status pages for engineering teams. It aggregates alerts from monitoring tools and notifies responders via SMS, voice, email, and mobile push. Spike.sh offers a free plan for small teams and paid plans for additional features."
+source_url: "https://spike.sh/"
+category: "On-Call & Alerting"
+tags:
+  - "freemium"
+  - "api"
+  - "status-pages"
+  - "on-call"
+  - "alerting"
+icon_url: "https://icons.duckduckgo.com/ip3/spike.sh.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://spike.sh/>\n"
+updated_at: "2026-11-21 01:25"

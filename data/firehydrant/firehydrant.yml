@@ -1,0 +1,13 @@
+name: "FireHydrant"
+description: "FireHydrant is an incident response and reliability platform for managing service catalogs, incident workflows, and postmortems. It supports runbook automation, severity tracking, and integration with observability tools. FireHydrant provides a free tier for small teams and paid plans for enterprises."
+source_url: "https://firehydrant.com/"
+category: "Incident Response Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "incident-response"
+  - "slo"
+  - "runbooks"
+icon_url: "https://icons.duckduckgo.com/ip3/firehydrant.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://firehydrant.com/>\n"
+updated_at: "2026-11-21 01:25"

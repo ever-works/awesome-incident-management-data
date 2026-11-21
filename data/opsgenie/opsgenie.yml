@@ -1,0 +1,13 @@
+name: "Opsgenie"
+description: "Opsgenie is an incident and alert management platform by Atlassian for on-call scheduling and alert routing. It consolidates notifications from monitoring systems and escalates them to the right personnel via phone, SMS, and email. A free plan supports up to five users; paid plans add advanced routing and reporting."
+source_url: "https://www.atlassian.com/software/opsgenie"
+category: "On-Call & Alerting"
+tags:
+  - "freemium"
+  - "api"
+  - "atlassian"
+  - "on-call"
+  - "alerting"
+icon_url: "https://icons.duckduckgo.com/ip3/www.atlassian.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.atlassian.com/software/opsgenie>\n"
+updated_at: "2026-11-21 01:25"

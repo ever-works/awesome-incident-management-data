@@ -1,0 +1,13 @@
+name: "Datadog"
+description: "Datadog is a cloud monitoring and security platform that includes incident management, on-call scheduling, and collaboration tools. It unifies metrics, traces, logs, and alerts to support incident response across modern stacks. Datadog offers a free tier and paid plans based on hosts and usage."
+source_url: "https://www.datadoghq.com/"
+category: "Incident Response Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "monitoring"
+  - "cloud"
+  - "observability"
+icon_url: "https://icons.duckduckgo.com/ip3/www.datadoghq.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.datadoghq.com/>\n"
+updated_at: "2026-11-21 01:25"

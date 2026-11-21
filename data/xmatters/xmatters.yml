@@ -1,0 +1,13 @@
+name: "xMatters"
+description: "xMatters is a service reliability platform that automates incident response and on-call communications for enterprise IT and DevOps teams. It orchestrates multi-channel alerting, incident workflows, and stakeholder notifications. xMatters is a paid enterprise product with API access and workflow automation."
+source_url: "https://www.xmatters.com/"
+category: "On-Call & Alerting"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "incident-response"
+  - "automation"
+icon_url: "https://icons.duckduckgo.com/ip3/www.xmatters.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.xmatters.com/>\n"
+updated_at: "2026-11-21 01:25"

@@ -1,0 +1,13 @@
+name: "ServiceNow"
+description: "ServiceNow is an enterprise cloud platform for IT service management, including major incident management and on-call coordination. It automates incident workflows, communication, and post-incident reviews across large organizations. ServiceNow is a paid enterprise product with subscription licensing."
+source_url: "https://www.servicenow.com/"
+category: "Incident Response Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "itsm"
+  - "incident-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.servicenow.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.servicenow.com/>\n"
+updated_at: "2026-11-21 01:25"

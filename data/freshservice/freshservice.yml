@@ -1,0 +1,13 @@
+name: "Freshservice"
+description: "Freshservice is a cloud-based IT service management tool with incident, problem, and change management for IT teams. It includes incident dispatch, asset management, and a service catalog with SLA tracking. Freshservice offers a free tier for small teams and paid plans for larger organizations."
+source_url: "https://freshworks.com/it-service-management-software/freshservice"
+category: "Incident Response Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "itsm"
+  - "incident-management"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/freshworks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://freshworks.com/it-service-management-software/freshservice>\n"
+updated_at: "2026-11-21 01:25"

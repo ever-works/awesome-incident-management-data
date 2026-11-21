@@ -1,0 +1,13 @@
+name: "Squadcast"
+description: "Squadcast is an incident management platform for SRE and DevOps teams, offering on-call scheduling, alert noise reduction, and incident response workflows. It includes status pages, postmortems, and integrations with monitoring and chat tools. Squadcast is a paid service with a free trial."
+source_url: "https://www.squadcast.com/"
+category: "Incident Response Platforms"
+tags:
+  - "paid"
+  - "api"
+  - "sre"
+  - "incident-response"
+  - "status-pages"
+icon_url: "https://icons.duckduckgo.com/ip3/www.squadcast.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.squadcast.com/>\n"
+updated_at: "2026-11-21 01:25"

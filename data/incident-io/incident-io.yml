@@ -1,0 +1,13 @@
+name: "incident.io"
+description: "incident.io is a Slack-native incident management platform that helps teams declare, coordinate, and resolve incidents from chat. It automates runbooks, stakeholder communications, and postmortem generation. A free plan is available for small teams, with paid tiers for larger organizations."
+source_url: "https://www.incident.io/"
+category: "Slack/Teams-Native Incident Tools"
+tags:
+  - "freemium"
+  - "api"
+  - "slack"
+  - "incident-response"
+  - "postmortems"
+icon_url: "https://icons.duckduckgo.com/ip3/www.incident.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.incident.io/>\n"
+updated_at: "2026-11-21 01:25"

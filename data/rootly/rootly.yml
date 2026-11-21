@@ -1,0 +1,13 @@
+name: "Rootly"
+description: "Rootly is a Slack-native incident response platform that automates incident lifecycle tasks such as responder paging, stakeholder updates, and postmortem creation. It integrates with monitoring and communication tools to reduce manual coordination. Rootly offers a free tier and paid plans for growing teams."
+source_url: "https://www.rootly.com/"
+category: "Slack/Teams-Native Incident Tools"
+tags:
+  - "freemium"
+  - "slack"
+  - "ai-powered"
+  - "incident-response"
+  - "automation"
+icon_url: "https://icons.duckduckgo.com/ip3/www.rootly.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.rootly.com/>\n"
+updated_at: "2026-11-21 01:25"

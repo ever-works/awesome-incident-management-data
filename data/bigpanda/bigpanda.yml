@@ -1,0 +1,13 @@
+name: "BigPanda"
+description: "BigPanda is an AIOps platform for incident prevention and response, using machine learning to correlate alerts and reduce noise. It automates incident triage and integrates with ITSM and monitoring tools for enterprise NOCs. BigPanda is a paid enterprise product."
+source_url: "https://bigpanda.io/"
+category: "Incident Response Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "ai-powered"
+  - "api"
+  - "aiops"
+icon_url: "https://icons.duckduckgo.com/ip3/bigpanda.io.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://bigpanda.io/>\n"
+updated_at: "2026-11-21 01:25"
