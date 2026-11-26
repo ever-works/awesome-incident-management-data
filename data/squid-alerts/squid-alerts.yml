@@ -1,0 +1,62 @@
+name: Squid Alerts
+description: Squid Alerts is a comprehensive incident management tool offering
+  on-call scheduling, escalation chains, and rule-based routing without per-user
+  fees. It ensures efficient alert handling, allowing IT teams to manage
+  incidents seamlessly. Features include webhook integration, multi-channel
+  alerts, API access, integration with monitoring tools, user management,
+  Microsoft Teams integration, SMS alerts, and alert prioritization.
+source_url: https://www.squidalerts.com
+category: Incident Response Platforms
+tags:
+  - on-call scheduling
+  - escalation chains
+  - rule-based routing
+  - Microsoft Teams
+  - no per-user fees
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Squid Alerts is a comprehensive incident management tool offering on-call
+  scheduling, escalation chains, and rule-based routing without per-user fees.
+
+
+  ## Features
+
+
+  - Webhook Integration
+
+  - Multi Channel Alerts
+
+  - Api Access
+
+  - Integration With Monitoring Tools
+
+  - User Management
+
+  - Integration With Microsoft Teams
+
+  - Sms Alerts
+
+  - Alert Prioritization
+
+
+  ## Target Segments
+
+
+  - StartUps
+
+  - SMBs
+
+  - Mid-Market
+
+  - Enterprises
+
+
+  ## Pricing
+
+
+  No per-user fees. Pricing details not available from the source page.
+brand: Squid Alerts
+updated_at: 2026-11-26 11:41

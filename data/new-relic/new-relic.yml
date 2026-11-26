@@ -1,0 +1,64 @@
+name: New Relic
+description: New Relic is an APM monitoring tool for software developers and IT
+  professionals. It offers memory usage optimization, CPU utilization, code
+  profiling, database query performance, web browser rendering performance, and
+  error analysis features. Pricing model is freemium with paid tiers based on
+  usage.
+source_url: https://newrelic.com
+category: On-Call & Alerting
+tags:
+  - real-time-monitoring
+  - api
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  New Relic is an application performance monitoring (APM) tool designed for
+  software developers and IT professionals to monitor, debug, and improve
+  software systems.
+
+
+  ## Features
+
+
+  - APM Agents
+
+  - Database Monitoring
+
+  - Log Management
+
+  - Real Time Monitoring
+
+  - Synthetic Monitoring
+
+  - Serverless Monitoring
+
+  - Error Analytics
+
+  - Service Maps
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS platform.
+
+
+  ## Pricing
+
+
+  Freemium model with a free tier and paid usage-based plans. Specific pricing
+  is available on the vendor's website.
+
+
+  ## Integrations
+
+
+  Supports integrations across cloud infrastructure, databases, serverless
+  environments, and alerting channels.
+brand: New Relic
+brand_logo_url: https://www.newrelic.com/assets/images/logos/NR-Logo.svg
+images: []
+updated_at: 2026-11-26 11:41

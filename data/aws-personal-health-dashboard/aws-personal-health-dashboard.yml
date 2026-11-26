@@ -1,0 +1,53 @@
+name: AWS Personal Health Dashboard
+description: AWS Personal Health Dashboard is a personalized service that
+  provides alerts and remediation guidance for AWS events impacting your
+  resources. It offers a detailed view of your AWS environment's health,
+  enabling proactive management and enhanced operational efficiency. It is
+  included at no additional charge with an AWS account.
+source_url: https://aws.amazon.com/personal-health-dashboard/
+category: On-Call & Alerting
+tags:
+  - cloud-native
+  - free-plan
+  - aws
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AWS Personal Health Dashboard is a personalized service that provides alerts
+  and remediation guidance for AWS events impacting your resources. It offers a
+  detailed view of your AWS environment's health, ensuring proactive management
+  and enhanced operational efficiency.
+
+
+  ## Features
+
+
+  - Personalized alerts for AWS events impacting your resources
+
+  - Event impact and event communication
+
+  - Event category, timeline, and metadata
+
+  - Event details and event resolution tracking
+
+  - Event type classification
+
+  - Detailed view of AWS environment health
+
+  - Proactive management and operational efficiency
+
+
+  ## Pricing
+
+
+  Included at no additional charge with an AWS account (free).
+
+
+  ## Deployment
+
+
+  Cloud (AWS-native, SaaS).
+brand: Amazon Web Services
+updated_at: 2026-11-26 11:41

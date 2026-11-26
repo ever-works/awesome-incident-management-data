@@ -1,0 +1,40 @@
+name: Splunk On-Call
+description: Splunk On-Call (formerly VictorOps) is a platform designed to
+  streamline incident response by centralizing alerts and communications. It
+  helps teams manage on-call schedules, incident collaboration, and alert
+  routing. It is a commercial product offered by Splunk.
+source_url: https://www.splunk.com/en_us/software/victorops.html
+category: Incident Response Platforms
+tags:
+  - paid
+  - on-call
+  - alerting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Splunk On-Call (formerly VictorOps) is a platform designed to streamline
+  incident response by centralizing alerts and communications.
+
+
+  ## Key Features
+
+
+  - Centralized alerting and incident communications
+
+  - On-call schedule and escalation management
+
+  - Incident response collaboration
+
+  - Commercial platform by Splunk
+
+
+  ## Pricing
+
+
+  Paid commercial product. Pricing details available from Splunk.
+brand: Splunk
+brand_logo_url: https://www.splunk.com/favicon.ico
+images: []
+updated_at: 2026-11-26 11:41

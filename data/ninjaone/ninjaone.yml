@@ -1,0 +1,44 @@
+name: NinjaOne
+description: NinjaOne is an incident recording and endpoint management software
+  that provides IT teams and managed service providers with a way to secure
+  their end-points and alleviate IT professionals of routine tasks. It provides
+  an extensive and centralized view of the health and status of an
+  organization's devices. Pricing is available on request (paid model).
+source_url: https://www.ninjaone.com/
+category: Incident Response Platforms
+tags:
+  - Paid
+  - Remote Monitoring
+  - Patch Management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NinjaOne is an incident recording software that provides IT teams and managed
+  service providers with a way to secure their end-points and alleviate IT
+  professionals of routine tasks so that they can spend their time on more
+  important duties.
+
+
+  ## Features
+
+
+  - Remote monitoring
+
+  - Network device monitoring
+
+  - Patch management
+
+  - Policy-based automation
+
+
+  ## Pricing
+
+
+  Contact Sales Team.
+brand: NinjaOne
+brand_logo_url: https://www.ninjaone.com/wp-content/uploads/2024/01/ninjaone-logo.svg
+images:
+  - https://www.ninjaone.com/wp-content/uploads/2024/01/ninjaone-dashboard.png
+updated_at: 2026-11-26 11:41

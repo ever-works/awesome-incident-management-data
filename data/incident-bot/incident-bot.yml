@@ -1,0 +1,37 @@
+name: incident-bot
+description: incident-bot is a bot for managing incidents in Slack, created by
+  EchoBoomer. It provides Slack-native incident management capabilities for
+  teams coordinating incident response within chat. The project is open source
+  and hosted on GitHub.
+source_url: https://github.com/echoboomer/incident-bot
+category: Slack/Teams-Native Incident Tools
+tags:
+  - open-source
+  - slack
+featured: false
+markdown: >-
+  ## Overview
+
+
+  incident-bot is a bot for managing incidents in Slack, created by EchoBoomer.
+
+
+  ## Key Features
+
+
+  - Slack-native incident management
+
+  - Bot-driven incident coordination within Slack channels
+
+  - Open-source project hosted on GitHub
+
+
+  ## Pricing
+
+
+  Free and open-source. Source code available at
+  https://github.com/echoboomer/incident-bot
+brand: EchoBoomer
+brand_logo_url: https://github.com/echoboomer.png
+images: []
+updated_at: 2026-11-26 11:41

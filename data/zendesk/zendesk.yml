@@ -1,0 +1,46 @@
+name: Zendesk
+description: Zendesk is designed to improve the customer experience with its
+  cloud-based customer support software. It helps organizations lower support
+  costs and raise productivity while simultaneously empowering teams to meet
+  their clients' needs, thus improving customer satisfaction.
+source_url: https://www.zendesk.com/
+category: Incident Response Platforms
+tags:
+  - Paid
+  - Free Trial
+  - Customer Support
+  - SLA Management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zendesk is designed to improve the customer experience with its cloud-based
+  customer support software.
+
+
+  ## Features
+
+
+  - Automated responses
+
+  - SLA management
+
+  - Ticket creation and submission
+
+  - Subscription-based notifications
+
+
+  ## Pricing
+
+
+  - Support Team - $19 per agent/month billed annually
+
+  - Suite Team - $49 per agent/month billed annually
+
+  - Suite Growth - $79 per agent/month billed annually
+brand: Zendesk
+brand_logo_url: https://www.zendesk.com/images/company/logos/zendesk-logo.svg
+images:
+  - https://www.zendesk.com/images/company/logos/zendesk-dashboard.png
+updated_at: 2026-11-26 11:41

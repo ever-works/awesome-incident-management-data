@@ -1,0 +1,46 @@
+name: OneUptime
+description: OneUptime is a complete open-source observability platform that
+  includes incident management, on-call rotations, log analysis, performance
+  tracking, and more. It provides an all-in-one open-source alternative for
+  incident response and monitoring. The project is hosted on GitHub.
+source_url: https://github.com/OneUptime/oneuptime
+category: Incident Response Platforms
+tags:
+  - open-source
+  - self-hosted
+  - observability
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OneUptime is a complete open-source observability platform that includes
+  incident management, on-call rotations, log analysis, performance tracking,
+  and more.
+
+
+  ## Key Features
+
+
+  - Incident management
+
+  - On-call rotations and scheduling
+
+  - Log analysis
+
+  - Performance tracking
+
+  - All-in-one open-source observability platform
+
+  - Self-hostable
+
+
+  ## Pricing
+
+
+  Free and open-source. Source code and repository available at
+  https://github.com/OneUptime/oneuptime
+brand: OneUptime
+brand_logo_url: https://github.com/OneUptime.png
+images: []
+updated_at: 2026-11-26 11:41

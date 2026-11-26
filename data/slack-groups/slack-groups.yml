@@ -1,0 +1,40 @@
+name: slack-groups
+description: slack-groups is a Slack app for grouping users and channels,
+  created by Pipedrive. It helps organize Slack workspace members and channels
+  into groups, which can support incident coordination and communication. The
+  project is open source and hosted on GitHub.
+source_url: https://github.com/pipedrive/slack-groups
+category: Slack/Teams-Native Incident Tools
+tags:
+  - open-source
+  - slack
+featured: false
+markdown: >-
+  ## Overview
+
+
+  slack-groups is a Slack app for grouping users and channels, created by
+  Pipedrive.
+
+
+  ## Key Features
+
+
+  - Slack app for grouping users and channels
+
+  - Organize workspace members and channels into groups
+
+  - Supports incident coordination and communication
+
+  - Open-source project hosted on GitHub
+
+
+  ## Pricing
+
+
+  Free and open-source. Source code available at
+  https://github.com/pipedrive/slack-groups
+brand: Pipedrive
+brand_logo_url: https://github.com/pipedrive.png
+images: []
+updated_at: 2026-11-26 11:41

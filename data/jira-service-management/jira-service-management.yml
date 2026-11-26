@@ -1,0 +1,52 @@
+name: Jira Service Management
+description: Jira Service Management is a comprehensive help desk incident
+  management software that provides support teams with all the information
+  needed to successfully respond to internal or external service requests. It
+  seamlessly integrates with Jira software to promote collaboration between IT
+  and development teams, improving incident management processes.
+source_url: https://www.atlassian.com/software/jira/service-management
+category: Incident Response Platforms
+tags:
+  - Paid
+  - Free Plan
+  - ITSM
+  - API
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Jira Service Management is a comprehensive help desk incident management
+  software that provides support teams with all the information needed to
+  successfully respond to internal or external service requests.
+
+
+  ## Features
+
+
+  - Prioritize service tickets
+
+  - Self-service tools
+
+  - Subscription-based notifications
+
+  - ITSM collaboration and documentation
+
+  - Automated ticket routing
+
+
+  ## Pricing
+
+
+  - Free
+
+  - Standard - $20 per agent per month
+
+  - Premium - $40 per agent per month
+
+  - Enterprise - Contact sales
+brand: Atlassian
+brand_logo_url: https://www.atlassian.com/dam/ac/dam/jira/feature-logos/jira-service-management-logo.svg
+images:
+  - https://www.atlassian.com/dam/jcr:1e6e8b7e-1e3d-4e5b-8e3e-5e7e9e0e1e2e/jira-service-management-hero.png
+updated_at: 2026-11-26 11:41

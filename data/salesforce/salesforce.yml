@@ -1,0 +1,43 @@
+name: Salesforce
+description: Salesforce provides organizations with a way to create and track
+  customer support tickets and automatically route and escalate incidents to the
+  appropriate responders. It also enables clients to track their own cases,
+  where they can join the conversation about the resolution, enabling
+  collaboration.
+source_url: https://www.salesforce.com/products/service-cloud/overview/
+category: Incident Response Platforms
+tags:
+  - Paid
+  - Customer Support
+  - Ticketing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Salesforce provides organizations with a way to create and track customer
+  support tickets and automatically route and escalate incidents to the
+  appropriate responders.
+
+
+  ## Features
+
+
+  - Prioritize service tickets
+
+  - Ticket creation and submission
+
+  - ITSM collaboration and documentation
+
+  - Ticket response
+
+
+  ## Pricing
+
+
+  Starting at $65/month.
+brand: Salesforce
+brand_logo_url: https://www.salesforce.com/content/dam/sfdc/www/sales-cloud/images/logo-salesforce-white.svg
+images:
+  - https://www.salesforce.com/content/dam/sfdc/www/service-cloud/images/service-cloud-hero.png
+updated_at: 2026-11-26 11:41

@@ -1,0 +1,39 @@
+name: HolmesGPT
+description: HolmesGPT is an open-source AI-powered incident response tool that
+  leverages GPT-3 for automated incident analysis and response. It helps
+  engineering teams analyze incidents and generate response guidance using AI.
+  The project is hosted on GitHub under the robusta-dev organization.
+source_url: https://github.com/robusta-dev/holmesgpt
+category: Incident Response Platforms
+tags:
+  - open-source
+  - AI-powered
+  - incident-response
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HolmesGPT is an open-source AI-powered incident response tool that leverages
+  GPT-3 for automated incident analysis and response.
+
+
+  ## Key Features
+
+
+  - AI-powered automated incident analysis
+
+  - GPT-3 based incident response assistance
+
+  - Open-source project hosted on GitHub
+
+
+  ## Pricing
+
+
+  Free and open-source. Source code available at
+  https://github.com/robusta-dev/holmesgpt
+brand: Robusta
+brand_logo_url: https://github.com/robusta-dev.png
+images: []
+updated_at: 2026-11-26 11:41

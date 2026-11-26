@@ -1,0 +1,63 @@
+name: Splunk IT Service Intelligence (ITSI)
+description: Splunk IT Service Intelligence (ITSI) is a unified security and
+  observability solution powered by AI. It helps prevent major issues, ensures
+  quick recovery, and adapts swiftly, keeping organizations resilient and teams
+  productive. Features include real-time alerting, anomaly detection, threshold
+  alerts, custom alert actions, webhook integration, alert acknowledgement,
+  email alerts, and incident management.
+source_url: https://www.splunk.com/en_us/software/splunk-it-service-intelligence.html
+category: On-Call & Alerting
+tags:
+  - AI-powered
+  - real-time alerting
+  - anomaly detection
+  - incident management
+  - webhook integration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Splunk IT Service Intelligence (ITSI) is a unified security and observability
+  solution powered by AI, designed to help organizations prevent major issues,
+  ensure quick recovery, and maintain resilience.
+
+
+  ## Features
+
+
+  - Real Time Alerting
+
+  - Anomaly Detection
+
+  - Threshold Alerts
+
+  - Custom Alert Actions
+
+  - Webhook Integration
+
+  - Alert Acknowledgement
+
+  - Email Alerts
+
+  - Incident Management
+
+
+  ## Target Segments
+
+
+  - StartUps
+
+  - SMBs
+
+  - Mid-Market
+
+  - Enterprises
+
+
+  ## Pricing
+
+
+  Pricing information not available from the source page.
+brand: Splunk
+updated_at: 2026-11-26 11:41

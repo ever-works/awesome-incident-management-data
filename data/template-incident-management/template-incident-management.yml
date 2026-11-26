@@ -1,0 +1,41 @@
+name: template-incident-management
+description: template-incident-management is a template for managing incidents
+  using the Slack API, created by Slack. It provides a starting point for teams
+  building Slack-native incident management workflows. The project is open
+  source and hosted on GitHub under the slackapi organization.
+source_url: https://github.com/slackapi/template-incident-management
+category: Slack/Teams-Native Incident Tools
+tags:
+  - open-source
+  - slack
+  - template
+featured: false
+markdown: >-
+  ## Overview
+
+
+  template-incident-management is a template for managing incidents using the
+  Slack API, created by Slack.
+
+
+  ## Key Features
+
+
+  - Slack API-based incident management template
+
+  - Starting point for Slack-native incident workflows
+
+  - Created and maintained by Slack
+
+  - Open-source project hosted on GitHub
+
+
+  ## Pricing
+
+
+  Free and open-source. Source code available at
+  https://github.com/slackapi/template-incident-management
+brand: Slack
+brand_logo_url: https://github.com/slackapi.png
+images: []
+updated_at: 2026-11-26 11:41
