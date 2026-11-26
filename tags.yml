@@ -1,60 +1,130 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: Api
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: on-call
-  name: "On-Call"
+  name: On Call
 - id: incident-response
-  name: "Incident Response"
+  name: Incident Response
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: slack
-  name: "Slack"
+  name: Slack
 - id: postmortems
-  name: "Postmortems"
+  name: Postmortems
 - id: automation
-  name: "Automation"
+  name: Automation
 - id: slo
-  name: "SLO"
+  name: SLO
 - id: runbooks
-  name: "Runbooks"
+  name: Runbooks
 - id: atlassian
-  name: "Atlassian"
+  name: Atlassian
 - id: alerting
-  name: "Alerting"
+  name: Alerting
 - id: sre
-  name: "SRE"
+  name: SRE
 - id: status-pages
-  name: "Status Pages"
+  name: Status Pages
 - id: monitoring
-  name: "Monitoring"
+  name: Monitoring
 - id: uptime
-  name: "Uptime"
+  name: Uptime
 - id: devops
-  name: "DevOps"
+  name: DevOps
 - id: customer-communication
-  name: "Customer Communication"
+  name: Customer Communication
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: observability
-  name: "Observability"
+  name: Observability
 - id: itsm
-  name: "ITSM"
+  name: ITSM
 - id: incident-management
-  name: "Incident Management"
+  name: Incident Management
 - id: scheduling
-  name: "Scheduling"
+  name: Scheduling
 - id: aiops
-  name: "AIOps"
+  name: AIOps
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: communication
-  name: "Communication"
+  name: Communication
 - id: mit
-  name: "MIT"
+  name: MIT
+- id: cloud-native
+  name: Cloud Native
+- id: free-plan
+  name: Free Plan
+- id: aws
+  name: Aws
+- id: desktop-alerts
+  name: Desktop Alerts
+- id: emergency-notifications
+  name: Emergency Notifications
+- id: user-segmentation
+  name: User Segmentation
+- id: real-time-notifications
+  name: Real Time Notifications
+- id: workplace-communication
+  name: Workplace Communication
+- id: mobile
+  name: Mobile
+- id: siem
+  name: SIEM
+- id: ibm-i
+  name: IBM I
+- id: compliance
+  name: Compliance
+- id: real-time-alerts
+  name: Real Time Alerts
+- id: on-call-scheduling
+  name: On Call Scheduling
+- id: real-time-monitoring
+  name: Real Time Monitoring
+- id: remote-monitoring
+  name: Remote Monitoring
+- id: patch-management
+  name: Patch Management
+- id: anomaly-detection
+  name: Anomaly Detection
+- id: developers
+  name: Developers
+- id: saas
+  name: SaaS
+- id: voice-alerts
+  name: Voice Alerts
+- id: push-notifications
+  name: Push Notifications
+- id: hipaa-compliant
+  name: HIPAA Compliant
+- id: customer-support
+  name: Customer Support
+- id: ticketing
+  name: Ticketing
+- id: real-time-alerting
+  name: Real Time Alerting
+- id: webhook-integration
+  name: Webhook Integration
+- id: escalation-chains
+  name: Escalation Chains
+- id: rule-based-routing
+  name: Rule Based Routing
+- id: microsoft-teams
+  name: Microsoft Teams
+- id: no-per-user-fees
+  name: No Per User Fees
+- id: template
+  name: Template
+- id: security
+  name: Security
+- id: free-trial
+  name: Free Trial
+- id: sla-management
+  name: SLA Management

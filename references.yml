@@ -1,8 +1,71 @@
-- url: "https://www.softwaresuggest.com/incident-management-software"
-  title: "SoftwareSuggest — Incident Management Software"
-- url: "https://www.softwaresuggest.com/it-alerting-software"
-  title: "SoftwareSuggest — IT Alerting Software"
-- url: "https://raw.githubusercontent.com/KHiis/awesome-incident-management/HEAD/README.md"
-  title: "GitHub list — KHiis/awesome-incident-management (23★, stale)"
-- url: "https://github.com/topics/incident-management"
-  title: "GitHub topic — `incident-management` (1,520 repos)"
+- url: https://blog.incidenthub.cloud/The-Ultimate-List-of-Incident-Management-Tools-in-2024
+  normalized_url: https://blog.incidenthub.cloud/The-Ultimate-List-of-Incident-Management-Tools-in-2024
+  first_seen_at: 2026-11-26T11:38:24.162Z
+  last_attempted_at: 2026-11-26T11:38:24.162Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://blog.incidenthub.cloud/The-Ultimate-List-of-Incident-Management-Too\
+    ls-in-2024"
+- url: https://firehydrant.com
+  normalized_url: https://firehydrant.com/
+  first_seen_at: 2026-11-26T11:39:27.676Z
+  last_attempted_at: 2026-11-26T11:39:27.676Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://firehydrant.com"
+- url: https://github.com/topics/incident-management
+  normalized_url: https://github.com/topics/incident-management
+  first_seen_at: 2026-11-26T11:37:56.099Z
+  last_attempted_at: 2026-11-26T11:37:56.099Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/incident-management"
+- url: https://incident.io
+  normalized_url: https://incident.io/
+  first_seen_at: 2026-11-26T11:38:59.200Z
+  last_attempted_at: 2026-11-26T11:38:59.200Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://incident.io"
+- url: https://raw.githubusercontent.com/KHiis/awesome-incident-management/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/KHiis/awesome-incident-management/HEAD/README.md
+  first_seen_at: 2026-11-26T11:27:41.733Z
+  last_attempted_at: 2026-11-26T11:27:41.733Z
+  last_success_at: 2026-11-26T11:27:41.733Z
+  status: success
+  items_created: 8
+  pipeline: agent-pipeline
+- url: https://rootly.com
+  normalized_url: https://rootly.com/
+  first_seen_at: 2026-11-26T11:39:15.657Z
+  last_attempted_at: 2026-11-26T11:39:15.657Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://rootly.com"
+- url: https://www.softwaresuggest.com/incident-management-software
+  normalized_url: https://www.softwaresuggest.com/incident-management-software
+  first_seen_at: 2026-11-26T11:28:57.226Z
+  last_attempted_at: 2026-11-26T11:28:57.226Z
+  last_success_at: 2026-11-26T11:28:57.226Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/it-alerting-software
+  normalized_url: https://www.softwaresuggest.com/it-alerting-software
+  first_seen_at: 2026-11-26T11:33:48.346Z
+  last_attempted_at: 2026-11-26T11:33:48.346Z
+  last_success_at: 2026-11-26T11:33:48.346Z
+  status: success
+  items_created: 13
+  pipeline: agent-pipeline
